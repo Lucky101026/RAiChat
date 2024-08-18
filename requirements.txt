@@ -1,0 +1,4 @@
+pillow
+requests
+pygame
+pyttsx3

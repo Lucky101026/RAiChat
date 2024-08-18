@@ -1,2 +1,2 @@
 # RAiChat
-A link Ai chat app based on tk
+A link Ai chat(talk) app based on tk
